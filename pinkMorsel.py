@@ -19,3 +19,5 @@ print(pinkMorsel_df.head(n=15))
 # Convert new table to CSV
 
 pinkMorsel_df.to_csv('pinkMorsel_sales.csv', index=False)
+
+# Simulate this as a change, after creating a branch, and before staging
